@@ -21,7 +21,7 @@ st.subheader("ML Leader | Business-First Thinker | Product Whisperer")
 st.markdown("Helping companies transform ideas into ML-powered impact.")
 
 st.header("About Me")
-st.markdown(\"\"\" I'm a Data Scientist with 10 years of experience...\"\"\")
+st.markdown(""" I'm a Data Scientist with 10 years of experience.""")
 
 st.header("🚀 Featured Apps")
 projects = {
@@ -34,6 +34,6 @@ for title, desc in projects.items():
     st.write(desc)
 
 st.header("📬 Get in Touch")
-st.markdown("Email me at [vineet@example.com](mailto:vineet@example.com)")
+st.markdown("Email me at [vineet.mahale9218@gmail.com]")
 
 
